@@ -1,0 +1,226 @@
+{
+    "asset": {
+        "copyright": "2020 (c) Adobe Inc.",
+        "generator": "Adobe Dimension - a39c749b7f1dd68e8fcb597e3575f0bb9d09bfc8",
+        "version": "2.0"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 40126,
+            "type": "VEC3",
+            "max": [
+                1.6466307640075684,
+                2.2898356914520265,
+                1.1449178457260132
+            ],
+            "min": [
+                -1.6466318368911744,
+                0.0,
+                -1.1449182033538819
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 40126,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 40126,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 133926,
+            "type": "SCALAR",
+            "max": [
+                40125.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 481512,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 481512,
+            "byteLength": 481512,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 963024,
+            "byteLength": 321008,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1284032,
+            "byteLength": 535704,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 1819736,
+            "uri": "HandRainbowfloat_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.000014702540283906274,
+                "yfov": 0.6024156808853149,
+                "zfar": 2.0,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        }
+    ],
+    "images": [
+        {
+            "name": "Soft-Rainbow-Gradient-thumb",
+            "uri": "HandRainbowfloat_images/Soft-Rainbow-Gradient-thumb.jpg",
+            "mimeType": "image/jpeg"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.028999999165534974
+            },
+            "name": "Plastic 2",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Ebene 13",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "Ebene 13",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                0.3144943118095398,
+                0.08819577842950821,
+                0.5606822371482849
+            ],
+            "rotation": [
+                -0.12059047073125839,
+                0.379409521818161,
+                0.04995020851492882,
+                0.9159756302833557
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.9999999403953552
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "translation": [
+                0.18379773199558259,
+                0.27839699387550356,
+                -0.01942053809762001
+            ],
+            "rotation": [
+                0.9937227368354797,
+                -0.06796304881572724,
+                0.011264846660196782,
+                0.0881430134177208
+            ],
+            "scale": [
+                0.09743417799472809,
+                0.0974341407418251,
+                0.006482583004981279
+            ],
+            "mesh": 0,
+            "name": "Ebene 13"
+        },
+        {
+            "translation": [
+                -0.21323390305042268,
+                -0.012957591563463211,
+                0.023037919774651529
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                -0.06975644826889038,
+                0.9975640773773193
+            ],
+            "scale": [
+                0.09317910671234131,
+                0.09317907691001892,
+                0.006199480965733528
+            ],
+            "mesh": 1,
+            "name": "Ebene 13"
+        }
+    ],
+    "samplers": [
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1,
+                2
+            ],
+            "name": "scene"
+        }
+    ],
+    "textures": [
+        {
+            "name": "texture78945",
+            "sampler": 0,
+            "source": 0
+        }
+    ],
+    "scene": 0
+}
