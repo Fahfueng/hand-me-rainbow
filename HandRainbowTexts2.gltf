@@ -1,0 +1,290 @@
+{
+    "asset": {
+        "copyright": "2020 (c) Adobe Inc.",
+        "generator": "Adobe Dimension - a39c749b7f1dd68e8fcb597e3575f0bb9d09bfc8",
+        "version": "2.0"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 16670,
+            "type": "VEC3",
+            "max": [
+                1.0656037330627442,
+                0.4986489713191986,
+                0.8352042436599731
+            ],
+            "min": [
+                -1.0656020641326905,
+                0.0,
+                0.5656442642211914
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 16670,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 16670,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 67287,
+            "type": "SCALAR",
+            "max": [
+                16669.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5126,
+            "count": 11692,
+            "type": "VEC3",
+            "max": [
+                0.8260735869407654,
+                0.38348934054374697,
+                0.3450227975845337
+            ],
+            "min": [
+                -0.8260732889175415,
+                0.0,
+                -0.018345339223742486
+            ]
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5126,
+            "count": 11692,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5126,
+            "count": 11692,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5125,
+            "count": 48315,
+            "type": "SCALAR",
+            "max": [
+                11691.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 200040,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 200040,
+            "byteLength": 200040,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 400080,
+            "byteLength": 133360,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 533440,
+            "byteLength": 269148,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 802588,
+            "byteLength": 140304,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 942892,
+            "byteLength": 140304,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1083196,
+            "byteLength": 93536,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1176732,
+            "byteLength": 193260,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 1369992,
+            "uri": "HandRainbowTexts2_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.000010000000656873454,
+                "yfov": 0.6024156808853149,
+                "zfar": 2.0,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.34191444516181948,
+                    0.04970656335353851,
+                    1.0,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.028999999165534974
+            },
+            "name": "Plastic 13",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.9046613574028015,
+                    0.017641952261328698,
+                    0.3564002513885498,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.028999999165534974
+            },
+            "name": "Plastic 12",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Shall Pass 2",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "This too 2",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 4,
+                        "NORMAL": 5,
+                        "TEXCOORD_0": 6
+                    },
+                    "indices": 7,
+                    "material": 1
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                0.3189736604690552,
+                -0.007925414480268956,
+                0.39139029383659365
+            ],
+            "rotation": [
+                -0.12059047073125839,
+                0.379409521818161,
+                0.04995020851492882,
+                0.9159756302833557
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.9999999403953552
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "translation": [
+                -0.003576431190595031,
+                0.0,
+                -0.06345698982477188
+            ],
+            "rotation": [
+                0.0,
+                0.034899499267339709,
+                0.0,
+                0.9993908405303955
+            ],
+            "scale": [
+                0.18420855700969697,
+                0.18420858681201936,
+                0.09063686430454254
+            ],
+            "mesh": 0,
+            "name": "Shall Pass 2"
+        },
+        {
+            "translation": [
+                -0.01493026688694954,
+                0.08566829562187195,
+                -0.002645301865413785
+            ],
+            "rotation": [
+                -0.00022843416081741452,
+                0.026175953447818757,
+                0.008723543956875801,
+                0.9996192455291748
+            ],
+            "scale": [
+                0.18914413452148438,
+                0.18914413452148438,
+                0.06155991554260254
+            ],
+            "mesh": 1,
+            "name": "This too 2"
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1,
+                2
+            ],
+            "name": "scene"
+        }
+    ],
+    "scene": 0
+}
