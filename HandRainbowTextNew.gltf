@@ -1,0 +1,684 @@
+{
+    "asset": {
+        "copyright": "2020 (c) Adobe Inc.",
+        "generator": "Adobe Dimension - a39c749b7f1dd68e8fcb597e3575f0bb9d09bfc8",
+        "version": "2.0"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 6806,
+            "type": "VEC3",
+            "max": [
+                10.270622253417969,
+                4.223520278930664,
+                2.111760377883911
+            ],
+            "min": [
+                -10.270621299743653,
+                0.0,
+                -2.111760377883911
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 6806,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 6806,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 3,
+            "type": "SCALAR",
+            "max": [
+                2289.0
+            ],
+            "min": [
+                2289.0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5125,
+            "count": 6900,
+            "type": "SCALAR",
+            "max": [
+                4681.0
+            ],
+            "min": [
+                2180.0
+            ]
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5125,
+            "count": 3,
+            "type": "SCALAR",
+            "max": [
+                4575.0
+            ],
+            "min": [
+                4575.0
+            ]
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5125,
+            "count": 10053,
+            "type": "SCALAR",
+            "max": [
+                2343.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5125,
+            "count": 10053,
+            "type": "SCALAR",
+            "max": [
+                6805.0
+            ],
+            "min": [
+                4492.0
+            ]
+        },
+        {
+            "bufferView": 8,
+            "componentType": 5126,
+            "count": 5438,
+            "type": "VEC3",
+            "max": [
+                8.555035591125489,
+                3.9179906845092775,
+                1.9589954614639283
+            ],
+            "min": [
+                -8.555035591125489,
+                0.0,
+                -1.9589953422546387
+            ]
+        },
+        {
+            "bufferView": 9,
+            "componentType": 5126,
+            "count": 5438,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 10,
+            "componentType": 5126,
+            "count": 5438,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 11,
+            "componentType": 5125,
+            "count": 3,
+            "type": "SCALAR",
+            "max": [
+                1812.0
+            ],
+            "min": [
+                1812.0
+            ]
+        },
+        {
+            "bufferView": 12,
+            "componentType": 5125,
+            "count": 5532,
+            "type": "SCALAR",
+            "max": [
+                3698.0
+            ],
+            "min": [
+                1737.0
+            ]
+        },
+        {
+            "bufferView": 13,
+            "componentType": 5125,
+            "count": 3,
+            "type": "SCALAR",
+            "max": [
+                3704.0
+            ],
+            "min": [
+                3704.0
+            ]
+        },
+        {
+            "bufferView": 14,
+            "componentType": 5125,
+            "count": 8028,
+            "type": "SCALAR",
+            "max": [
+                1844.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 15,
+            "componentType": 5125,
+            "count": 8028,
+            "type": "SCALAR",
+            "max": [
+                5437.0
+            ],
+            "min": [
+                3605.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 81672,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 81672,
+            "byteLength": 81672,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 163344,
+            "byteLength": 54448,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 217792,
+            "byteLength": 12,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 217804,
+            "byteLength": 27600,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 245404,
+            "byteLength": 12,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 245416,
+            "byteLength": 40212,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 285628,
+            "byteLength": 40212,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 325840,
+            "byteLength": 65256,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 391096,
+            "byteLength": 65256,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 456352,
+            "byteLength": 43504,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 499856,
+            "byteLength": 12,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 499868,
+            "byteLength": 22128,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 521996,
+            "byteLength": 12,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 522008,
+            "byteLength": 32112,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 554120,
+            "byteLength": 32112,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 586232,
+            "uri": "HandRainbowTextNew_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.000010000000656873454,
+                "yfov": 0.6024156808853149,
+                "zfar": 2.0,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        }
+    ],
+    "images": [
+        {
+            "name": "Soft-Rainbow-Gradient-thumb",
+            "uri": "HandRainbowTextNew_images/Soft-Rainbow-Gradient-thumb.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "roughness_image_texture",
+            "uri": "HandRainbowTextNew_images/roughness_image_texture.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "normal_image_texture",
+            "uri": "HandRainbowTextNew_images/normal_image_texture.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "normal_image_texture_0",
+            "uri": "HandRainbowTextNew_images/normal_image_texture_0.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "normal_image_texture_1",
+            "uri": "HandRainbowTextNew_images/normal_image_texture_1.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "normal_image_texture_2",
+            "uri": "HandRainbowTextNew_images/normal_image_texture_2.png",
+            "mimeType": "image/png"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "metallicFactor": 0.07999999821186066,
+                "roughnessFactor": 0.33333298563957217
+            },
+            "name": "Shall Pass Front Bevel Material",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0,
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "offset": [
+                                -0.483576387166977,
+                                0.14084795117378236
+                            ],
+                            "rotation": 0.6108652353286743,
+                            "scale": [
+                                1,
+                                1
+                            ]
+                        }
+                    }
+                },
+                "metallicFactor": 0.07999999821186066,
+                "roughnessFactor": 0.33333298563957217
+            },
+            "name": "Shall Pass Extrusion Material",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.8468732833862305,
+                    0.8468732833862305,
+                    0.8468732833862305,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 1
+                }
+            },
+            "normalTexture": {
+                "index": 2
+            },
+            "name": "Glossy Paper",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.8468732833862305,
+                    0.8468732833862305,
+                    0.8468732833862305,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 1
+                }
+            },
+            "normalTexture": {
+                "index": 3
+            },
+            "name": "Glossy Paper 4",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.8468732833862305,
+                    0.19120167195796967,
+                    0.5209956765174866,
+                    1.0
+                ],
+                "metallicFactor": 0.07999999821186066,
+                "roughnessFactor": 0.33333298563957217
+            },
+            "name": "This Too Front Bevel Material",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.8468732833862305,
+                    0.8468732833862305,
+                    0.8468732833862305,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 1
+                }
+            },
+            "normalTexture": {
+                "index": 4
+            },
+            "name": "Glossy Paper 2",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.8468732833862305,
+                    0.8468732833862305,
+                    0.8468732833862305,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 1
+                }
+            },
+            "normalTexture": {
+                "index": 5
+            },
+            "name": "Glossy Paper 3",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Shall Pass",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 3,
+                    "material": 0
+                },
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 4,
+                    "material": 1
+                },
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 5,
+                    "material": 0
+                },
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 6,
+                    "material": 2
+                },
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 7,
+                    "material": 3
+                }
+            ]
+        },
+        {
+            "name": "This Too",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 10,
+                        "NORMAL": 9,
+                        "POSITION": 8
+                    },
+                    "indices": 11,
+                    "material": 4
+                },
+                {
+                    "attributes": {
+                        "POSITION": 8,
+                        "NORMAL": 9,
+                        "TEXCOORD_0": 10
+                    },
+                    "indices": 12,
+                    "material": 1
+                },
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 10,
+                        "NORMAL": 9,
+                        "POSITION": 8
+                    },
+                    "indices": 13,
+                    "material": 0
+                },
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 10,
+                        "NORMAL": 9,
+                        "POSITION": 8
+                    },
+                    "indices": 14,
+                    "material": 5
+                },
+                {
+                    "attributes": {
+                        "POSITION": 8,
+                        "NORMAL": 9,
+                        "TEXCOORD_0": 10
+                    },
+                    "indices": 15,
+                    "material": 6
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                0.3289356827735901,
+                -0.0382239893078804,
+                0.39554205536842348
+            ],
+            "rotation": [
+                -0.12059047073125839,
+                0.379409521818161,
+                0.04995020851492882,
+                0.9159756302833557
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.9999999403953552
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "translation": [
+                -1.907348590179936e-8,
+                0.0,
+                0.00018236160394735634
+            ],
+            "rotation": [
+                0.0,
+                0.014469437301158905,
+                0.0,
+                0.9998953342437744
+            ],
+            "scale": [
+                0.01900411769747734,
+                0.019005758687853814,
+                0.004793535452336073
+            ],
+            "mesh": 0,
+            "name": "Shall Pass"
+        },
+        {
+            "translation": [
+                0.00028324127197265625,
+                0.07396373897790909,
+                -0.0017588138580322266
+            ],
+            "rotation": [
+                0.0,
+                0.014469440095126629,
+                0.0,
+                0.9998953342437744
+            ],
+            "scale": [
+                0.019131595268845559,
+                0.019133249297738076,
+                0.004825692158192396
+            ],
+            "mesh": 1,
+            "name": "This Too"
+        }
+    ],
+    "samplers": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1,
+                2
+            ],
+            "name": "scene"
+        }
+    ],
+    "textures": [
+        {
+            "name": "texture155493",
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "name": "roughness_image_texture",
+            "sampler": 1,
+            "source": 1
+        },
+        {
+            "name": "normal_image_texture",
+            "sampler": 2,
+            "source": 2
+        },
+        {
+            "name": "normal_image_texture",
+            "sampler": 3,
+            "source": 3
+        },
+        {
+            "name": "normal_image_texture",
+            "sampler": 4,
+            "source": 4
+        },
+        {
+            "name": "normal_image_texture",
+            "sampler": 5,
+            "source": 5
+        }
+    ],
+    "scene": 0,
+    "extensionsUsed": [
+        "KHR_texture_transform"
+    ],
+    "extensionsRequired": [
+        "KHR_texture_transform"
+    ]
+}
